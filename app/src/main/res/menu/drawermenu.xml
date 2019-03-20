@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nike" android:title="耐克"></item>
+    <item android:id="@+id/adidas" android:title="阿迪"></item>
+    <item android:id="@+id/makeup" android:title="化妆品"></item>
+    <item android:id="@+id/lotion" android:title="护肤品"></item>
+    <item android:id="@+id/luxury" android:title="奢侈品"></item>
+    <item android:id="@+id/hot" android:title="Amazon热卖"></item>
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81149348260",
+    "firebase_url": "https://shopinus-ecdde.firebaseio.com",
+    "project_id": "shopinus-ecdde",
+    "storage_bucket": "shopinus-ecdde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81149348260:android:1634691651644bbc",
+        "android_client_info": {
+          "package_name": "com.example.shopinus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81149348260-9upaoiq0aj5euk3utue91ldig7us1rut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIycGzSwcEYXTdVzmvtvJXfY8TpGthmMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
